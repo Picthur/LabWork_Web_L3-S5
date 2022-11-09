@@ -1,5 +1,9 @@
 # labwork-js
 
+Labwork 1 web site [here](https://picthur.github.io/labwork-js/Labwork-1/index.html).
+
+Labwork 2 web site [here](https://picthur.github.io/labwork-js/Labwork-2/index.html).
+
 Labwork 3 web site [here](https://picthur.github.io/labwork-js/ArthurB-js-lab-work.html).
 
 Labwork 4 web site [here](https://picthur.github.io/labwork-js/index.html).
