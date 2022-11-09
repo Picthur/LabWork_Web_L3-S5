@@ -1,3 +1,7 @@
 # labwork-js
 
-You can ckeck my labwork 4 web site [here](https://picthur.github.io/labwork-js/index.html).
+Labwork 3 web site [here](https://picthur.github.io/labwork-js/ArthurB-js-lab-work.html).
+
+Labwork 4 web site [here](https://picthur.github.io/labwork-js/index.html).
+
+Labwork 5 web site [here](https://picthur.github.io/labwork-js/labwork/index.html).
