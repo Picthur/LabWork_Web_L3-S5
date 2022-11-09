@@ -1,4 +1,4 @@
-# labwork-js
+# All labworks web sites:
 
 Labwork 1 web site [here](https://picthur.github.io/LabWork_Web_L3-S5/Labwork-1/Index.html).
 
