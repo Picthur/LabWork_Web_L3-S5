@@ -8,15 +8,8 @@
     <link href="./style.css" rel="stylesheet" type="text/css" media="all">
   </head>
   <body class="container-flex-column-center">
-    <div id="backToIndex" class="container-flex-row">
-      <a href="../">
-        <i class="bi bi-arrow-left"></i>
-        <span class="margin-left-10px"><code>Back to index</code></span>
-      </a>
-    </div>
-
     <header>
-      Quick Lab 2
+        <h1>Quick Lab 2</h1> 
     </header>
 
     <div id="error-container" class="container-flex-column-center"></div>
@@ -29,7 +22,7 @@
 
     <script>
       //? Settings
-      const numberOfUsers = 5000;
+      const numberOfUsers = 100;
 
       //? Fetch the API to get the JSON
       fetch("https://randomuser.me/api/?nat=ca&results=" + numberOfUsers)
