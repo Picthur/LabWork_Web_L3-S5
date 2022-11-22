@@ -9,3 +9,5 @@ Labwork 3 web site [here](https://picthur.github.io/LabWork_Web_L3-S5/ArthurB-js
 Labwork 4 web site [here](https://picthur.github.io/LabWork_Web_L3-S5/index.html).
 
 Labwork 5 web site [here](https://picthur.github.io/LabWork_Web_L3-S5/Labwork-5/index.html).
+
+Quick lab 2 web site [here](https://picthur.github.io/LabWork_Web_L3-S5/quickLab-2/index.html)
